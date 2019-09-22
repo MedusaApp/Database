@@ -1,0 +1,21 @@
+{
+    "name": "medusaapp/database",
+    "description": "MEDUSA Core Database model",
+    "type": "library",
+    "license": "GNU LGPL V3",
+    "authors": [
+        {
+            "name": "David Weiner",
+            "email": "david.l.weiner30030@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "5.8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Personality\\Database\\": ""
+        }
+    }
+}

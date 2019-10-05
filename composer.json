@@ -2,7 +2,7 @@
     "name": "medusaapp/database",
     "description": "MEDUSA Core Database model",
     "type": "library",
-    "license": "GNU LGPL V3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "David Weiner",
